@@ -1,0 +1,362 @@
+{
+  "actualizado": "2026-07-15T03:19:02.575203",
+  "totales": {
+    "avisos": 10,
+    "alertas": 6,
+    "alarmas": 1,
+    "total": 17
+  },
+  "alertas": [
+    {
+      "id": 5107,
+      "tipo": "Aviso",
+      "codigo": "A318/2026",
+      "emision": "Domingo 12 de julio del 2026 a las 12:40 hrs.",
+      "fenomeno": "Viento",
+      "condicion": "Sistema frontal",
+      "desde": "la madrugada del martes 14 de julio del 2026",
+      "hasta": "la noche del miércoles 15 de julio del 2026",
+      "observacion": "",
+      "zonas": "Archipielago Juan Fernández",
+      "titulo": "Viento Normal a Moderado en Archipielago Juan Fernández",
+      "icono": "💨",
+      "color": "#fbbf24",
+      "regiones": [
+        "Archipiélago Juan Fernández"
+      ]
+    },
+    {
+      "id": 5118,
+      "tipo": "Alerta",
+      "codigo": "AA93/2026",
+      "emision": "Lunes 13 de julio del 2026 a las 12:33 hrs.",
+      "fenomeno": "Viento",
+      "condicion": "Sistema frontal",
+      "desde": "la tarde del jueves 16 de julio del 2026",
+      "hasta": "la noche del sábado 18 de julio del 2026",
+      "observacion": "Desarrollo de viento blanco",
+      "zonas": "Tarapacá (Cordillera) | Antofagasta (Cordillera Costa, Precordillera Alto Loa, Cordillera) | Atacama (Cordillera)",
+      "titulo": "Viento Moderado a Fuerte en zonas de las regiones de Tarapacá, Antofagasta y Atacama",
+      "icono": "💨",
+      "color": "#f97316",
+      "regiones": [
+        "Antofagasta",
+        "Atacama",
+        "Tarapacá"
+      ]
+    },
+    {
+      "id": 5127,
+      "tipo": "Aviso",
+      "codigo": "A326-1/2026",
+      "emision": "Lunes 13 de julio del 2026 a las 12:59 hrs.",
+      "fenomeno": "Nevadas",
+      "condicion": "Sistema frontal",
+      "desde": "la tarde del jueves 16 de julio del 2026",
+      "hasta": "la noche del jueves 16 de julio del 2026",
+      "observacion": "Probabilidad de ventisca",
+      "zonas": "Atacama (Cordillera)",
+      "titulo": "Nevadas Normales a Moderadas en cordillera de la región de Atacama",
+      "icono": "❄️",
+      "color": "#fbbf24",
+      "regiones": [
+        "Atacama"
+      ]
+    },
+    {
+      "id": 5129,
+      "tipo": "Aviso",
+      "codigo": "A313-2/2026",
+      "emision": "Lunes 13 de julio del 2026 a las 13:21 hrs.",
+      "fenomeno": "Precipitaciones",
+      "condicion": "Sistema frontal",
+      "desde": "la mañana del martes 14 de julio del 2026",
+      "hasta": "la noche del miércoles 15 de julio del 2026",
+      "observacion": "",
+      "zonas": "La Araucanía (Cordillera Costa, Valle, Precordillera) | Los Ríos (Valle, Precordillera, Cordillera)",
+      "titulo": "Precipitaciones Normales a Moderadas en zonas de las regiones de La Araucanía y Los Ríos",
+      "icono": "🌧️",
+      "color": "#fbbf24",
+      "regiones": [
+        "La Araucanía",
+        "Los Ríos"
+      ]
+    },
+    {
+      "id": 5130,
+      "tipo": "Alerta",
+      "codigo": "AA94/2026",
+      "emision": "Lunes 13 de julio del 2026 a las 13:20 hrs.",
+      "fenomeno": "Precipitaciones",
+      "condicion": "Frente frío",
+      "desde": "la mañana del martes 14 de julio del 2026",
+      "hasta": "la noche del miércoles 15 de julio del 2026",
+      "observacion": "",
+      "zonas": "La Araucanía (Precordillera, Cordillera) | Los Ríos (Precordillera)",
+      "titulo": "Precipitaciones Moderadas a Fuertes en zonas de las regiones de La Araucanía y Los Ríos",
+      "icono": "🌧️",
+      "color": "#f97316",
+      "regiones": [
+        "La Araucanía",
+        "Los Ríos"
+      ]
+    },
+    {
+      "id": 5133,
+      "tipo": "Alarma",
+      "codigo": "AAA3/2026",
+      "emision": "Martes 14 de julio del 2026 a las 11:28 hrs.",
+      "fenomeno": "Precipitaciones",
+      "condicion": "Sistema frontal",
+      "desde": "la madrugada del viernes 17 de julio del 2026",
+      "hasta": "la noche del domingo 19 de julio del 2026",
+      "observacion": "Precipitaciones intensas y continúas provocarán alta probabilidad de saturación de suelos",
+      "zonas": "Coquimbo, Valparaíso y Metropolitana",
+      "titulo": "Precipitaciones Intensas en las regiones de Coquimbo, Valparaíso y Metropolitana",
+      "icono": "🌧️",
+      "color": "#ef4444",
+      "regiones": [
+        "Coquimbo",
+        "Metropolitana",
+        "Valparaíso"
+      ]
+    },
+    {
+      "id": 5134,
+      "tipo": "Alerta",
+      "codigo": "AA91-1/2026",
+      "emision": "Martes 14 de julio del 2026 a las 11:19 hrs.",
+      "fenomeno": "Precipitaciones",
+      "condicion": "Sistema frontal",
+      "desde": "la madrugada del martes 14 de julio del 2026",
+      "hasta": "la noche del domingo 19 de julio del 2026",
+      "observacion": "",
+      "zonas": "Atacama (Litoral, Cordillera Costa y sectores de valles, Pampa, Precordillera) | Coquimbo (Litoral, Cordillera Costa, Precordillera y valles precordilleranos) | Valparaíso (Litoral, Cordillera Costa, Precordillera y valles precordilleranos) | Metropolitana (Cordillera Costa, Valle, Precordillera) | O&#039;Higgins (Litoral, Cordillera Costa, Valle, Precordillera) | Maule (Litoral, Cordillera Costa, Valle, Precordillera) | &Ntilde;uble (Litoral, Cordillera Costa, Valle, Precordillera) | Biobío (Litoral, Cordillera Costa, Valle, Precordillera)",
+      "titulo": "Precipitaciones Moderadas a Fuertes en zonas desde la región de Atacama a la región del Biobío",
+      "icono": "🌧️",
+      "color": "#f97316",
+      "regiones": [
+        "Atacama",
+        "Biobío",
+        "Coquimbo",
+        "Maule",
+        "Metropolitana",
+        "O'Higgins",
+        "Valparaíso",
+        "Ñuble"
+      ]
+    },
+    {
+      "id": 5135,
+      "tipo": "Alerta",
+      "codigo": "AA92-1/2026",
+      "emision": "Martes 14 de julio del 2026 a las 11:19 hrs.",
+      "fenomeno": "Nevadas",
+      "condicion": "Sistema frontal",
+      "desde": "la tarde del viernes 17 de julio del 2026",
+      "hasta": "la noche del domingo 19 de julio del 2026",
+      "observacion": "Desarrollo de ventisca",
+      "zonas": "Atacama (Cordillera) | Coquimbo (Cordillera) | Valparaíso (Cordillera) | Metropolitana (Cordillera) | O&#039;Higgins (Cordillera)",
+      "titulo": "Nevadas Moderadas a Fuertes en cordillera desde la región de Atacama a la región de O&#039;Higgins",
+      "icono": "❄️",
+      "color": "#f97316",
+      "regiones": [
+        "Atacama",
+        "Coquimbo",
+        "Metropolitana",
+        "O'Higgins",
+        "Valparaíso"
+      ]
+    },
+    {
+      "id": 5136,
+      "tipo": "Alerta",
+      "codigo": "AA90-1/2026",
+      "emision": "Martes 14 de julio del 2026 a las 11:19 hrs.",
+      "fenomeno": "Viento",
+      "condicion": "Sistema frontal aproxima la zona",
+      "desde": "la tarde del martes 14 de julio del 2026",
+      "hasta": "la noche del viernes 17 de julio del 2026",
+      "observacion": "",
+      "zonas": "Coquimbo (Litoral, Cordillera Costa, Precordillera y valles precordilleranos, Cordillera) | Valparaíso (Litoral, Cordillera Costa, Precordillera y valles precordilleranos, Cordillera) | Metropolitana (Cordillera Costa, Valle, Precordillera, Cordillera) | O&#039;Higgins (Litoral, Cordillera Costa, Valle, Precordillera, Cordillera) | Maule (Litoral, Cordillera Costa, Valle, Precordillera, Cordillera) | &Ntilde;uble (Litoral, Cordillera Costa, Valle, Precordillera, Cordillera) | Biobío (Litoral, Cordillera Costa, Valle, Precordillera, Cordillera)",
+      "titulo": "Viento Moderado a Fuerte en zonas desde la región de Coquimbo a la región del Biobío",
+      "icono": "💨",
+      "color": "#f97316",
+      "regiones": [
+        "Biobío",
+        "Coquimbo",
+        "Maule",
+        "Metropolitana",
+        "O'Higgins",
+        "Valparaíso",
+        "Ñuble"
+      ]
+    },
+    {
+      "id": 5137,
+      "tipo": "Aviso",
+      "codigo": "A320-2/2026",
+      "emision": "Martes 14 de julio del 2026 a las 11:35 hrs.",
+      "fenomeno": "Viento",
+      "condicion": "Sistema frontal",
+      "desde": "la tarde del miércoles 15 de julio del 2026",
+      "hasta": "la noche del domingo 19 de julio del 2026",
+      "observacion": "Probabilidad de viento blanco",
+      "zonas": "Arica y Parinacota (Cordillera) | Tarapacá (Cordillera) | Antofagasta (Precordillera Occidental, Precordillera Alto Loa, Precordillera Salar, Cordillera) | Atacama (Litoral, Cordillera Costa y sectores de valles, Pampa, Precordillera, Cordillera)",
+      "titulo": "Viento Normal a Moderado en zonas desde la región de Arica y Parinacota a la región de Atacama",
+      "icono": "💨",
+      "color": "#fbbf24",
+      "regiones": [
+        "Antofagasta",
+        "Arica y Parinacota",
+        "Atacama",
+        "Tarapacá"
+      ]
+    },
+    {
+      "id": 5138,
+      "tipo": "Aviso",
+      "codigo": "A327/2026",
+      "emision": "Martes 14 de julio del 2026 a las 15:32 hrs.",
+      "fenomeno": "Heladas",
+      "condicion": "Altas presiones",
+      "desde": "la madrugada del jueves 16 de julio del 2026",
+      "hasta": "la mañana del domingo 19 de julio del 2026",
+      "observacion": "Formación de hielo",
+      "zonas": "Magallanes (Cordillera Austral Sur, Insular Sur, Pampa Patagonica Norte, Pampa Patagonica Sur)",
+      "titulo": "Heladas Normales a Moderadas en zonas de la región de Magallanes",
+      "icono": "🥶",
+      "color": "#fbbf24",
+      "regiones": [
+        "Magallanes"
+      ]
+    },
+    {
+      "id": 5139,
+      "tipo": "Aviso",
+      "codigo": "A317-1/2026",
+      "emision": "Martes 14 de julio del 2026 a las 15:07 hrs.",
+      "fenomeno": "Precipitaciones",
+      "condicion": "Sistema frontal",
+      "desde": "la tarde del martes 14 de julio del 2026",
+      "hasta": "la mañana del jueves 16 de julio del 2026",
+      "observacion": "",
+      "zonas": "Archipielago Juan Fernández",
+      "titulo": "Precipitaciones Normales a Moderadas en Archipielago Juan Fernández",
+      "icono": "🌧️",
+      "color": "#fbbf24",
+      "regiones": [
+        "Archipiélago Juan Fernández"
+      ]
+    },
+    {
+      "id": 5140,
+      "tipo": "Aviso",
+      "codigo": "A324-2/2026",
+      "emision": "Martes 14 de julio del 2026 a las 15:13 hrs.",
+      "fenomeno": "Viento",
+      "condicion": "Frente frío",
+      "desde": "la madrugada del jueves 16 de julio del 2026",
+      "hasta": "la mañana del viernes 17 de julio del 2026",
+      "observacion": "",
+      "zonas": "La Araucanía (Litoral, Cordillera Costa) | Los Ríos (Litoral, Cordillera Costa, Valle, Precordillera) | Los Lagos (Litoral, Cordillera Costa)",
+      "titulo": "Viento Normal a Moderado en zonas de las regiones de La Araucanía, Los Ríos y Los Lagos",
+      "icono": "💨",
+      "color": "#fbbf24",
+      "regiones": [
+        "La Araucanía",
+        "Los Lagos",
+        "Los Ríos"
+      ]
+    },
+    {
+      "id": 5141,
+      "tipo": "Alerta",
+      "codigo": "AA95/2026",
+      "emision": "Martes 14 de julio del 2026 a las 15:13 hrs.",
+      "fenomeno": "Viento",
+      "condicion": "Sistema frontal",
+      "desde": "la madrugada del jueves 16 de julio del 2026",
+      "hasta": "la noche del jueves 16 de julio del 2026",
+      "observacion": "",
+      "zonas": "La Araucanía (Valle)",
+      "titulo": "Viento Moderado a Fuerte en valle de la región de La Araucanía",
+      "icono": "💨",
+      "color": "#f97316",
+      "regiones": [
+        "La Araucanía"
+      ]
+    },
+    {
+      "id": 5142,
+      "tipo": "Aviso",
+      "codigo": "A319-3/2026",
+      "emision": "Martes 14 de julio del 2026 a las 15:55 hrs.",
+      "fenomeno": "Viento",
+      "condicion": "Sistema frontal",
+      "desde": "la tarde del martes 14 de julio del 2026",
+      "hasta": "la noche del domingo 19 de julio del 2026",
+      "observacion": "",
+      "zonas": "Coquimbo (Cordillera) | Valparaíso (Cordillera Costa, Precordillera y valles precordilleranos, Cordillera) | Metropolitana (Cordillera Costa, Valle, Precordillera, Cordillera) | O&#039;Higgins (Litoral, Cordillera Costa, Valle, Precordillera, Cordillera) | Maule (Litoral, Cordillera Costa, Precordillera, Cordillera) | &Ntilde;uble (Precordillera, Cordillera) | Biobío (Precordillera, Cordillera)",
+      "titulo": "Viento Normal a Moderado en zonas desde la región de Coquimbo a la región del Biobío",
+      "icono": "💨",
+      "color": "#fbbf24",
+      "regiones": [
+        "Biobío",
+        "Coquimbo",
+        "Maule",
+        "Metropolitana",
+        "O'Higgins",
+        "Valparaíso",
+        "Ñuble"
+      ]
+    },
+    {
+      "id": 5144,
+      "tipo": "Aviso",
+      "codigo": "A323-2/2026",
+      "emision": "Martes 14 de julio del 2026 a las 16:11 hrs.",
+      "fenomeno": "Precipitaciones",
+      "condicion": "Sistema frontal",
+      "desde": "la tarde del martes 14 de julio del 2026",
+      "hasta": "la noche del domingo 19 de julio del 2026",
+      "observacion": "",
+      "zonas": "Valparaíso (Litoral, Cordillera Costa, Precordillera y valles precordilleranos) | Metropolitana (Cordillera Costa, Valle, Precordillera) | O&#039;Higgins (Litoral, Cordillera Costa, Valle, Precordillera) | Maule (Litoral, Cordillera Costa, Valle, Precordillera) | &Ntilde;uble (Litoral, Cordillera Costa, Valle, Precordillera) | Biobío (Litoral, Cordillera Costa, Valle, Precordillera)",
+      "titulo": "Precipitaciones Normales a Moderadas en zonas desde la región de Valparaíso a la región del Biobío",
+      "icono": "🌧️",
+      "color": "#fbbf24",
+      "regiones": [
+        "Biobío",
+        "Maule",
+        "Metropolitana",
+        "O'Higgins",
+        "Valparaíso",
+        "Ñuble"
+      ]
+    },
+    {
+      "id": 5145,
+      "tipo": "Aviso",
+      "codigo": "A322-3/2026",
+      "emision": "Martes 14 de julio del 2026 a las 17:21 hrs.",
+      "fenomeno": "Nevadas",
+      "condicion": "Sistema frontal",
+      "desde": "la mañana del miércoles 15 de julio del 2026",
+      "hasta": "la noche del domingo 19 de julio del 2026",
+      "observacion": "Probabilidad de ventisca",
+      "zonas": "Coquimbo (Cordillera) | Valparaíso (Cordillera) | Metropolitana (Cordillera) | O&#039;Higgins (Cordillera) | Maule (Cordillera) | &Ntilde;uble (Cordillera) | Biobío (Cordillera)",
+      "titulo": "Nevadas Normales a Moderadas en cordillera desde la región de Coquimbo a la región del Biobío",
+      "icono": "❄️",
+      "color": "#fbbf24",
+      "regiones": [
+        "Biobío",
+        "Coquimbo",
+        "Maule",
+        "Metropolitana",
+        "O'Higgins",
+        "Valparaíso",
+        "Ñuble"
+      ]
+    }
+  ]
+}
