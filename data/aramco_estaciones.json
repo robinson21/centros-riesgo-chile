@@ -1,0 +1,4999 @@
+[
+  {
+    "id": 4,
+    "name": "Isabel La Catolica",
+    "address": "Av. Manquehue Sur 1590, Las Condes",
+    "region": "Metropolitana",
+    "locality": "Las Condes",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.42483773,
+      "lng": -70.56340456
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Kerosene",
+      "Cargador eléctrico",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 1,
+    "name": "Puerto Montt / Pdte Ibáñez",
+    "address": "Pdte. Ibáñez esq. Av. Parque Industrial, Puerto Montt",
+    "region": "Los Lagos",
+    "locality": "Puerto Montt",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -41.461488,
+      "lng": -72.947823
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 2,
+    "name": "La Reina / Las Brujas",
+    "address": "Av. Príncipe De Gales 9200, La Reina",
+    "region": "Metropolitana",
+    "locality": "La Reina",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.44143757,
+      "lng": -70.53480148
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Kerosene",
+      "Carwash",
+      "Cargador eléctrico",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 3,
+    "name": "Los Angeles - Carretera",
+    "address": "Av. Las Industrias N°9025 // Panamericana Sur km. 510 Cruce Antuco, Los Ángeles",
+    "region": "Biobío",
+    "locality": "Los Ángeles",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -37.46576391,
+      "lng": -72.32615232
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 5,
+    "name": "Concepción San Pedro",
+    "address": "Av. Pedro A. Cerda 2155, San Pedro de la Paz",
+    "region": "Biobío",
+    "locality": "Concepción",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.83787723,
+      "lng": -73.11917161
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Kerosene",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 6,
+    "name": "Antofagasta / Rendic",
+    "address": "Av. Antonio Rendic 6850, Antofagasta",
+    "region": "Antofagasta",
+    "locality": "Antofagasta",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -23.60927074,
+      "lng": -70.38443416
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 7,
+    "name": "Ancud",
+    "address": "Arturo Prat, esq. Goycolea, Ancud",
+    "region": "Los Lagos",
+    "locality": "Ancud",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -41.86717994,
+      "lng": -73.82329702
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Aire",
+      "Baños"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 8,
+    "name": "Vitacura / P. Hurtado",
+    "address": "Av. Vitacura 8841, Vitacura",
+    "region": "Metropolitana",
+    "locality": "Vitacura",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.38425593,
+      "lng": -70.55144191
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Kerosene",
+      "Carwash",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 9,
+    "name": "Angol",
+    "address": "Av. Libertador Bernardo O’higgins 1744, Angol",
+    "region": "La Araucanía",
+    "locality": "Angol",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -37.81180281,
+      "lng": -72.68395381
+    },
+    "services": [
+      "Tienda aStop",
+      "Brazo de carga",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 10,
+    "name": "Antofagasta / La Chimba",
+    "address": "Av. Pedro Aguirre Cerda 10850, Antofagasta",
+    "region": "Antofagasta",
+    "locality": "Antofagasta",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -23.56309756,
+      "lng": -70.39072951
+    },
+    "services": [
+      "Tienda aStop",
+      "Carwash",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 11,
+    "name": "Frutillar",
+    "address": "Lote B 3 - 7 S/N, Frutillar",
+    "region": "Los Lagos",
+    "locality": "Frutillar",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -41.117608,
+      "lng": -73.0554
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 12,
+    "name": "Lo Barnechea / Los Trapenses",
+    "address": "Avda. Los Trapenses 3515, Lo Barnechea",
+    "region": "Metropolitana",
+    "locality": "Lo Barnechea",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.34279028,
+      "lng": -70.54563224
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 13,
+    "name": "Puerto Montt / Ruta 7",
+    "address": "Carretera Austral S/N, Puerto Montt",
+    "region": "Los Lagos",
+    "locality": "Puerto Montt",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -41.4907,
+      "lng": -72.8829
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 14,
+    "name": "Talagante II",
+    "address": "Camino Melipilla 7022, Talagante",
+    "region": "Metropolitana",
+    "locality": "Talagante",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.580165151561644,
+      "lng": -70.82760175378117
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 15,
+    "name": "Ancud Anibal Pinto",
+    "address": "Anibal Pinto 1701, Ancud",
+    "region": "Los Lagos",
+    "locality": "Ancud",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -41.87572684438218,
+      "lng": -73.79815570267849
+    },
+    "services": [
+      "Brazo de carga",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 16,
+    "name": "Entre Lagos II",
+    "address": "Ruta 215 S/N, Puyehue",
+    "region": "Los Lagos",
+    "locality": "Puyehue",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -40.686568,
+      "lng": -72.592739
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 17,
+    "name": "Enea",
+    "address": "Av Vespucio Norte Express 1273, Pudahuel",
+    "region": "Metropolitana",
+    "locality": "Pudahuel",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.43443911245174,
+      "lng": -70.78565098766327
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Cargador eléctrico",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 18,
+    "name": "Cauquenes",
+    "address": "Maipú 546, esq. Carrera, Cauquenes",
+    "region": "Maule",
+    "locality": "Cauquenes",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -35.96338961291148,
+      "lng": -72.31273143341312
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 19,
+    "name": "Concepción / Pedro de Valdivia",
+    "address": "Av. Pedro de Valdivia 1265, Concepción",
+    "region": "Biobío",
+    "locality": "Concepción",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.848298504822196,
+      "lng": -73.05073971534507
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 20,
+    "name": "Coronel Camino Concepción",
+    "address": "Ruta 160 km 19, N°6750 sector Villa Verde, Coronel",
+    "region": "Biobío",
+    "locality": "Coronel",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.954318633142876,
+      "lng": -73.15612100287856
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 21,
+    "name": "Quilpué / Marga Marga",
+    "address": "Av. Marga Marga N°1844, Quilpué",
+    "region": "Valparaíso",
+    "locality": "Quilpué",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.0596246480214,
+      "lng": -71.42576053840511
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Carwash",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 22,
+    "name": "Antofagasta / Coaniquem",
+    "address": "Av. Pedro Aguirre Cerda 11385, Coaniquem, Antofagasta",
+    "region": "Antofagasta",
+    "locality": "Antofagasta",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -23.557053245931353,
+      "lng": -70.39160474379064
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Carwash",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 23,
+    "name": "Antofagasta / Pérez Zújovic",
+    "address": "Av. Edmundo Pérez Zujovic 5030, Antofagasta",
+    "region": "Antofagasta",
+    "locality": "Antofagasta",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -23.622788104424863,
+      "lng": -70.39417402520309
+    },
+    "services": [
+      "Tienda aStop",
+      "Brazo de carga",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 24,
+    "name": "Parral Carretera",
+    "address": "Panamericana Sur km. 341, Parral",
+    "region": "Maule",
+    "locality": "Parral",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.134079527261996,
+      "lng": -71.80705456256186
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 25,
+    "name": "Antofagasta Grecia",
+    "address": "Av. Grecia 430, Antofagasta",
+    "region": "Antofagasta",
+    "locality": "Antofagasta",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -23.670379490330227,
+      "lng": -70.4077808033071
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Carwash",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 26,
+    "name": "La Cisterna / Fernandez Albano",
+    "address": "Gran Av. J.M. Carrera 7390 (P/20),La Cisterna",
+    "region": "Metropolitana",
+    "locality": "La Cisterna",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.52314265313302,
+      "lng": -70.66001298125622
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Kerosene",
+      "Carwash",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 27,
+    "name": "Las Condes Cantagallo",
+    "address": "Av. Las Condes 12373, Las Condes",
+    "region": "Metropolitana",
+    "locality": "Las Condes",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.37278552906305,
+      "lng": -70.51707051942482
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 28,
+    "name": "Lampa Valle Grande",
+    "address": "ML A 10 D Valle Grande, Lampa",
+    "region": "Metropolitana",
+    "locality": "Lampa",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.32410040079623,
+      "lng": -70.7440239494441
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 29,
+    "name": "Providencia / Bilbao - Varas",
+    "address": "Bilbao 1492 Esq. Antonio Varas, Providencia",
+    "region": "Metropolitana",
+    "locality": "Providencia",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.43885535671679,
+      "lng": -70.61407066904994
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 30,
+    "name": "Vitacura Vespucio",
+    "address": "Av.A.Vespucio 1665, Vitacura",
+    "region": "Metropolitana",
+    "locality": "Vitacura",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.39894129801779,
+      "lng": -70.58719734995972
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Kerosene",
+      "Cargador eléctrico",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 31,
+    "name": "Rancagua III",
+    "address": "Av. San Juan 0133, Machalí",
+    "region": "Libertador General Bernardo O’Higgins",
+    "locality": "Machalí",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -34.176692612057515,
+      "lng": -70.69843448918347
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 32,
+    "name": "Pichilemu",
+    "address": "Angel Gaete 708, esq. Santa María, Pichilemu",
+    "region": "Libertador General Bernardo O’Higgins",
+    "locality": "Pichilemu",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -34.389663694155836,
+      "lng": -72.00212185787372
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 33,
+    "name": "Huechuraba",
+    "address": "Pedro Fontova 7523, Esq. Guanaco, Huechuraba",
+    "region": "Metropolitana",
+    "locality": "Huechuraba",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.35199247450405,
+      "lng": -70.67006565124711
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Cargador eléctrico",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 34,
+    "name": "Pucon Camino Internacional",
+    "address": "Camino Internacional 2175 Esq. Callejon del Triunfo, Pucón",
+    "region": "La Araucanía",
+    "locality": "Pucón",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -39.28713716577711,
+      "lng": -71.94523899996045
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 35,
+    "name": "Temuco Carretera",
+    "address": "Panamericana Sur km.658, Vilcún",
+    "region": "La Araucanía",
+    "locality": "Temuco",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.65046099384214,
+      "lng": -72.47370603164829
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 36,
+    "name": "San Bernardo / NOS - Avda. Portales",
+    "address": "Av. Portales 4290 (NOS), San Bernardo",
+    "region": "Metropolitana",
+    "locality": "San Bernardo",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.63738504287012,
+      "lng": -70.70800461947893
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 37,
+    "name": "Chicureo",
+    "address": "Avda. Chicureo 208, Colina",
+    "region": "Metropolitana",
+    "locality": "Chicureo",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.285432459472034,
+      "lng": -70.67740495989203
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Cargador eléctrico",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 38,
+    "name": "Isla Negra",
+    "address": "Isidoro Dubornais 3361, El Quisco",
+    "region": "Valparaíso",
+    "locality": "El Quisco",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.43447012391657,
+      "lng": -71.68663101780199
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 39,
+    "name": "Rio Bueno",
+    "address": "Comercio 903 esq. Balmaceda, Río Bueno",
+    "region": "Los Ríos",
+    "locality": "Río Bueno",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -40.337774618670984,
+      "lng": -72.9559819780445
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 40,
+    "name": "Rosario Carretera",
+    "address": "Panamericana Sur km. 110, Rosario, Rengo",
+    "region": "Libertador General Bernardo O’Higgins",
+    "locality": "Rengo",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -34.35601488760465,
+      "lng": -70.84588365169073
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 41,
+    "name": "San Fernado Carretera",
+    "address": "Panamericana Sur km. 135, San Fernando",
+    "region": "Libertador General Bernardo O’Higgins",
+    "locality": "San Fernando",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -34.57018521910047,
+      "lng": -70.97127689404311
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Baños"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 42,
+    "name": "Viña Mar / 6 Norte",
+    "address": "San Martín esq 6 Norte, Viña del Mar",
+    "region": "Valparaíso",
+    "locality": "Viña del Mar",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.01634090536934,
+      "lng": -71.55674520747078
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 43,
+    "name": "Concepción Camino a Penco",
+    "address": "Camino a Penco 4638, Concepción",
+    "region": "Biobío",
+    "locality": "Concepción",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.789510229652755,
+      "lng": -73.02386130059415
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 44,
+    "name": "Villarrica Segunda Faja",
+    "address": "Camino Segunda Faja, LT. B5-6, Sector Fundo El Recreo, Villarrica",
+    "region": "La Araucanía",
+    "locality": "Villarrica",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -39.30537053249208,
+      "lng": -72.21804910265743
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 45,
+    "name": "Chillan Ecuador",
+    "address": "Longitudinal Sur Esq. Ecuador, Chillán",
+    "region": "Ñuble",
+    "locality": "Chillán",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.59818861342942,
+      "lng": -72.10567577319674
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 46,
+    "name": "Talca / Casino",
+    "address": "Av. San Miguel 3210, Talca",
+    "region": "Maule",
+    "locality": "Talca",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -35.43488440172149,
+      "lng": -71.62936704380186
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 47,
+    "name": "Luis Pasteur",
+    "address": "Luis Pasteur 6725, Vitacura",
+    "region": "Metropolitana",
+    "locality": "Vitacura",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.37993211430709,
+      "lng": -70.56956797090288
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Kerosene",
+      "Cargador eléctrico",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 48,
+    "name": "La Serena / Panamericana Norte Isla",
+    "address": "Panamericana Norte s/n esq. Juan de dios Peni, La Serena",
+    "region": "Coquimbo",
+    "locality": "La Serena",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -29.90787881132132,
+      "lng": -71.25703779974782
+    },
+    "services": [
+      "Tienda aStop",
+      "Cargador eléctrico",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 49,
+    "name": "Coquimbo / Regimiento Arica",
+    "address": "Calle Regimiento Arica 1641, Coquimbo",
+    "region": "Coquimbo",
+    "locality": "Coquimbo",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -29.94954550408609,
+      "lng": -71.27604935752709
+    },
+    "services": [
+      "Carwash",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 50,
+    "name": "Coquimbo / Huachalalume",
+    "address": "Lote Uno Guion B Uno, Coquimbo",
+    "region": "Coquimbo",
+    "locality": "Coquimbo",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -29.978619,
+      "lng": -71.262436
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 51,
+    "name": "Concepción General Bonilla",
+    "address": "Av. Gral. Bonilla 1850, Concepción",
+    "region": "Biobío",
+    "locality": "Concepción",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.8194581327869,
+      "lng": -73.00710759057633
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 52,
+    "name": "Macul",
+    "address": "J.P.Alessandri 475/C.Velasco Macul, Ñuñoa",
+    "region": "Metropolitana",
+    "locality": "Ñuñoa",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.45932100346004,
+      "lng": -70.5983384002445
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 53,
+    "name": "Buin / Alto Jahuel",
+    "address": "Camino Buin Alto Jahuel 1500",
+    "region": "Metropolitana",
+    "locality": "Buin",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.7362253596329,
+      "lng": -70.71654899561875
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 54,
+    "name": "Caldera",
+    "address": "Panamericana Norte km. 877",
+    "region": "Atacama",
+    "locality": "Caldera",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -27.070328094331735,
+      "lng": -70.80599778055452
+    },
+    "services": [
+      "Brazo de carga",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 55,
+    "name": "Concepción / Lomas San Andrés",
+    "address": "Ramón Carrasco 455, Lomas de san Andrés",
+    "region": "Biobío",
+    "locality": "Concepción",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.788509915626925,
+      "lng": -73.05606900163258
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 56,
+    "name": "Cerro Navia / Carrascal - Quinta Normal",
+    "address": "Av. Carrascal 6450",
+    "region": "Metropolitana",
+    "locality": "Cerro Navia",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.414307558456144,
+      "lng": -70.71792626473942
+    },
+    "services": [
+      "Carwash",
+      "Cargador eléctrico",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 57,
+    "name": "CHILLAN 2 / AV ARGENTINA - LIBERTAD",
+    "address": "Av. Argentina 550 esq. Libertad, Chillán",
+    "region": "Ñuble",
+    "locality": "Chillán",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.608597320021246,
+      "lng": -72.0933844102711
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 59,
+    "name": "Galvarino Centro",
+    "address": "Calle independencia 205, Galvarino",
+    "region": "La Araucanía",
+    "locality": "Galvarino",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.413698781592196,
+      "lng": -72.78058871425979
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 60,
+    "name": "Copiapó / Paipote",
+    "address": "Camino a Diego de Almagro 660",
+    "region": "Atacama",
+    "locality": "Copiapó",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -27.381765073807173,
+      "lng": -70.30631347625203
+    },
+    "services": [
+      "Brazo de carga",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 61,
+    "name": "Coquimbo / La Cantera",
+    "address": "Panamericana Norte 2100 cruce La Cantera",
+    "region": "Coquimbo",
+    "locality": "Coquimbo",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -29.966028655710023,
+      "lng": -71.32811923010759
+    },
+    "services": [
+      "Tienda aStop",
+      "Carwash",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 62,
+    "name": "Coquimbo / La Herradura",
+    "address": "Darío Salas 301, Ruta 5, La Herradura",
+    "region": "Coquimbo",
+    "locality": "Coquimbo",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -29.97622450632948,
+      "lng": -71.34495364321285
+    },
+    "services": [
+      "Tienda aStop",
+      "Carwash",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 63,
+    "name": "Coquimbo Suecia / Aronex",
+    "address": "Av. Suecia 701",
+    "region": "Coquimbo",
+    "locality": "Coquimbo",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -29.97125516551915,
+      "lng": -71.31974344797379
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 64,
+    "name": "Curauma / Placilla",
+    "address": "Lote Fc – 05 E, Fundo Curauma",
+    "region": "Valparaíso",
+    "locality": "Placilla",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.132344047023636,
+      "lng": -71.56554955874653
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 65,
+    "name": "El Bosque / Gran Avenida - par 28",
+    "address": "Gran Av. 9549, (Balmaceda) paradero 28",
+    "region": "Metropolitana",
+    "locality": "El Bosque",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.54589540342485,
+      "lng": -70.669141945332
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 66,
+    "name": "Pitrufquén",
+    "address": "O’Higgins 290, Casilla 27",
+    "region": "La Araucanía",
+    "locality": "Pitrufquén",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.97981622923703,
+      "lng": -72.63762107995183
+    },
+    "services": [
+      "Aire",
+      "Baños"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 67,
+    "name": "Estación Central / Pajaritos I",
+    "address": "Av. Ramón Freire 6097 (6475)",
+    "region": "Metropolitana",
+    "locality": "Santiago",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.462892178435474,
+      "lng": -70.72312762636012
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Kerosene",
+      "Carwash",
+      "Cargador eléctrico",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 68,
+    "name": "Pucon 2",
+    "address": "Calle Caupolicán 635, Pucón",
+    "region": "La Araucanía",
+    "locality": "Pucón",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -39.27936986700245,
+      "lng": -71.97724398970168
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 69,
+    "name": "La Calera",
+    "address": "Caupolicán 803 esq. Rodríguez",
+    "region": "Valparaíso",
+    "locality": "La Calera",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -32.786193342818464,
+      "lng": -71.19279151594934
+    },
+    "services": [
+      "Lubricentro",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 70,
+    "name": "La Cisterna / Gran Avda - Riesle",
+    "address": "Gran Av. 8501, La Cisterna",
+    "region": "Metropolitana",
+    "locality": "San Miguel",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.53335066934341,
+      "lng": -70.66364509924402
+    },
+    "services": [
+      "Kerosene"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 71,
+    "name": "La Florida / Punta Arenas - Dicoche",
+    "address": "Amércio Vespucio 9077",
+    "region": "Metropolitana",
+    "locality": "La Florida",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.536734020523525,
+      "lng": -70.60987495375277
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 72,
+    "name": "La Pintana / Santa Rosa - Dicoche",
+    "address": "Av. Santa Rosa 10801",
+    "region": "Metropolitana",
+    "locality": "La Pintana",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.560519513757,
+      "lng": -70.63096329705454
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 73,
+    "name": "La Serena / 4 esquinas",
+    "address": "Balmaceda 3464 esq. 4 esquinas",
+    "region": "Coquimbo",
+    "locality": "La Serena",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -29.932477763650475,
+      "lng": -71.25928650141783
+    },
+    "services": [
+      "Tienda aStop",
+      "Carwash",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 74,
+    "name": "La Serena / El Milagro",
+    "address": "Avda. Cuatro esquinas 1617",
+    "region": "Coquimbo",
+    "locality": "La Serena",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -29.944924168240224,
+      "lng": -71.24079491349119
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Carwash",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 75,
+    "name": "La Serena / Ulriksen",
+    "address": "Guillermo Ulriksen 1630",
+    "region": "Coquimbo",
+    "locality": "La Serena",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -29.99198733,
+      "lng": -71.12348089
+    },
+    "services": [
+      "Tienda aStop",
+      "Carwash",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 76,
+    "name": "Las Condes / Manquehue - Los Militares",
+    "address": "Av. Manquehue 415 / Los Militares",
+    "region": "Metropolitana",
+    "locality": "Las Condes",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.404809405276964,
+      "lng": -70.56845176102048
+    },
+    "services": [
+      "Tienda aStop",
+      "Carwash",
+      "Lubricentro",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 77,
+    "name": "Temuco / Fco Salazar - Las Encinas",
+    "address": "Av. Francisco Salazar 01540 esq. Las Encinas",
+    "region": "La Araucanía",
+    "locality": "Temuco",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.75128423797053,
+      "lng": -72.61713962475596
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 78,
+    "name": "Maipú / Hugo Bravo",
+    "address": "Américo Vespucio 1677 / Hugo Bravo",
+    "region": "Metropolitana",
+    "locality": "Maipú",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.47360524763475,
+      "lng": -70.7582938206712
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 79,
+    "name": "Monte Patria",
+    "address": "Camino Troncal s/n",
+    "region": "Coquimbo",
+    "locality": "Monte Patria",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -30.697086264929343,
+      "lng": -70.9608570184466
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 80,
+    "name": "Temuco / Labranza",
+    "address": "Ruta S-30 09761 Camino Labranza",
+    "region": "La Araucanía",
+    "locality": "Temuco",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.76054562800547,
+      "lng": -72.71473786846053
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 81,
+    "name": "Temuco / Pablo Neruda",
+    "address": "Av. Pablo Neruda 0221",
+    "region": "La Araucanía",
+    "locality": "Temuco",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.73691120570458,
+      "lng": -72.6342970021311
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 82,
+    "name": "Ovalle",
+    "address": "Vicuña Mackenna 955",
+    "region": "Coquimbo",
+    "locality": "Ovalle",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -30.606573403898146,
+      "lng": -71.21115967144665
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 83,
+    "name": "Temuco / Pedro de Valdivia",
+    "address": "Pedro de Valdivia 405",
+    "region": "La Araucanía",
+    "locality": "Temuco",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.731312682439786,
+      "lng": -72.60350599202728
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 84,
+    "name": "Castro / Galvarino",
+    "address": "Salvador Calisto Esquina con Galvarino Riveros",
+    "region": "Los Lagos",
+    "locality": "Castro",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -42.469468447845976,
+      "lng": -73.78365105501946
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 85,
+    "name": "Osorno / Brasil - Lynch",
+    "address": "Brasil entre Lynch y Mackenna",
+    "region": "Los Lagos",
+    "locality": "Osorno",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -40.575251816566855,
+      "lng": -73.11832821391859
+    },
+    "services": [
+      "Tienda aStop",
+      "Lubricentro",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 86,
+    "name": "Puente Alto / Lomiton - Camilo Henriquez",
+    "address": "Camilo Henriquez 3674",
+    "region": "Metropolitana",
+    "locality": "Puente Alto",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.56723779909893,
+      "lng": -70.55513902872453
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 87,
+    "name": "Puente Alto / Nonato",
+    "address": "Nonato Coo con Av. San Francisco 3050",
+    "region": "Metropolitana",
+    "locality": "Puente Alto",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.58204155434186,
+      "lng": -70.56841464930055
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 88,
+    "name": "Putaendo",
+    "address": "Bulnes 526 esq.Cura Monte",
+    "region": "Valparaíso",
+    "locality": "Putaendo",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -32.626283310841146,
+      "lng": -70.71538562142072
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 89,
+    "name": "Quilpué / Freire - Gamboa",
+    "address": "Freire esq. Lo Gamboa, Quilpué",
+    "region": "Valparaíso",
+    "locality": "Quilpué",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.04199147724011,
+      "lng": -71.42711978197597
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 90,
+    "name": "Quilpué / Los Carrera",
+    "address": "Los Carrera 469, Quilpué",
+    "region": "Valparaíso",
+    "locality": "Quilpué",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.047741941826686,
+      "lng": -71.44553177097868
+    },
+    "services": [
+      "Kerosene",
+      "Cargador eléctrico",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 91,
+    "name": "Quintero",
+    "address": "Ruta F210",
+    "region": "Valparaíso",
+    "locality": "Quintero",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -32.79791745121169,
+      "lng": -71.51613381293569
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 92,
+    "name": "Rancagua / Kennedy",
+    "address": "Av. Kennedy 1601",
+    "region": "Libertador General Bernardo O’Higgins",
+    "locality": "Rancagua",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -34.14567798539918,
+      "lng": -70.74073204644942
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 93,
+    "name": "Osorno",
+    "address": "Chorrillos 1631",
+    "region": "Los Lagos",
+    "locality": "Osorno",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -40.569357852969496,
+      "lng": -73.16704890147125
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 94,
+    "name": "San Bernardo Freire",
+    "address": "Freire 301",
+    "region": "Metropolitana",
+    "locality": "San Bernardo",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.590357172353215,
+      "lng": -70.70292470260387
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 95,
+    "name": "San Carlos Carretera",
+    "address": "Panamericana Sur km.386 - Poniente",
+    "region": "Ñuble",
+    "locality": "San Carlos",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.48966841463316,
+      "lng": -72.02551143098789
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 96,
+    "name": "Santo Domingo",
+    "address": "Lote 2 Carretera De La Fruta",
+    "region": "Valparaíso",
+    "locality": "Santo Domingo",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.63359,
+      "lng": -71.610327
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 97,
+    "name": "Santa Cruz",
+    "address": "Rafael Casanova 732",
+    "region": "Libertador General Bernardo O’Higgins",
+    "locality": "Santa Cruz",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -34.64088019858514,
+      "lng": -71.37630390788709
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 98,
+    "name": "Taltal",
+    "address": "Francisco Bilbao 986",
+    "region": "Antofagasta",
+    "locality": "Taltal",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -25.411569780870035,
+      "lng": -70.47612620054484
+    },
+    "services": [
+      "Aire",
+      "Baños"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 99,
+    "name": "Puerto Montt / Munita",
+    "address": "Monseñor Ramón Munita 1600",
+    "region": "Los Lagos",
+    "locality": "Puerto Montt",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -41.145455,
+      "lng": -72.2934808
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 100,
+    "name": "Puerto Montt / Panamericana Sur",
+    "address": "Panamericana Sur Km. 100",
+    "region": "Los Lagos",
+    "locality": "Puerto Montt",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -41.50683980391357,
+      "lng": -73.05961735330771
+    },
+    "services": [
+      "Tienda aStop",
+      "Lubricentro",
+      "Brazo de carga",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 101,
+    "name": "Puerto Montt / Los Alerces",
+    "address": "Quintupeu n°475, Los Alerces",
+    "region": "Los Lagos",
+    "locality": "Puerto Montt",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -41.40539349026684,
+      "lng": -72.91567797448855
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 102,
+    "name": "Ruta 5 Camino Chiloé",
+    "address": "Ruta 5 Sur Km 1031",
+    "region": "Los Lagos",
+    "locality": "Castro",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -42.43413542175857,
+      "lng": -73.7698174085064
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 103,
+    "name": "Valdivia 1 / Picarte - Rubén Darío",
+    "address": "Picarte 3050 esq. Rubén Darío",
+    "region": "Los Ríos",
+    "locality": "Valdivia",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -39.83809035207487,
+      "lng": -73.2094422978464
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 104,
+    "name": "Vicuña / Rivadavia",
+    "address": "Ruta 41 n°037, Rivadavia",
+    "region": "Coquimbo",
+    "locality": "Vicuña",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -29.98070837676962,
+      "lng": -70.5626464055068
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 105,
+    "name": "Valdivia Aníbal Pinto",
+    "address": "Anibal Pinto 1785",
+    "region": "Los Ríos",
+    "locality": "Valdivia",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -39.82493920730464,
+      "lng": -73.239892983832
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 106,
+    "name": "STAND ALONE PARQUE ARAUCO",
+    "address": "Cerro colorado 5240 Local 503",
+    "region": "Metropolitana",
+    "locality": "Las Condes",
+    "contact": "800 374 834",
+    "schedule": "Lunes a Viernes 7:00 a 20:00, Domingo 10:00 a 20:00",
+    "coords": {
+      "lat": -33.40291711281206,
+      "lng": -70.5775551486317
+    },
+    "services": [
+      "Tienda aStop"
+    ],
+    "tag": "STAND ALONE"
+  },
+  {
+    "id": 107,
+    "name": "STAND ALONE LA MACARENA",
+    "address": "Apoquindo N° 4925, locales 2 y 3 B",
+    "region": "Metropolitana",
+    "locality": "Las Condes",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.412032205885,
+      "lng": -70.57739760198874
+    },
+    "services": [
+      "Tienda aStop"
+    ],
+    "tag": "STAND ALONE"
+  },
+  {
+    "id": 108,
+    "name": "STAND ALONE INMOBILIA",
+    "address": "Av. Apoquindo 6419",
+    "region": "Metropolitana",
+    "locality": "Las Condes",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.40832061832295,
+      "lng": -70.56431486102096
+    },
+    "services": [
+      "Tienda aStop"
+    ],
+    "tag": "STAND ALONE"
+  },
+  {
+    "id": 109,
+    "name": "STAND ALONE ALONSO DE CORDOVA",
+    "address": "Alonso de Córdova 5979, Local 1",
+    "region": "Metropolitana",
+    "locality": "Las Condes",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.40805464173737,
+      "lng": -70.56917605616175
+    },
+    "services": [
+      "Tienda aStop"
+    ],
+    "tag": "STAND ALONE"
+  },
+  {
+    "id": 110,
+    "name": "ALTO HOSPICIO",
+    "address": "Av. Los Aromos 987-2339, Alto Hospicio, Tarapacá",
+    "region": "Tarapacá",
+    "locality": "Alto Hospicio",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -20.266441143524652,
+      "lng": -70.09720929560463
+    },
+    "services": [
+      "Tienda aStop",
+      "Carwash",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 111,
+    "name": "ANGOL / BONILLA",
+    "address": "Gral. Oscar Bonilla 432, 4651957 Angol, Araucanía",
+    "region": "La Araucanía",
+    "locality": "Angol",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -37.8005794518137,
+      "lng": -72.6957917
+    },
+    "services": [
+      "Kerosene",
+      "Carwash",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 112,
+    "name": "ANTOFAGASTA / AV. ARGENTINA",
+    "address": "Av. Argentina 2802, Casilla 1283, Antofagasta",
+    "region": "Antofagasta",
+    "locality": "Antofagasta",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -23.64900080260554,
+      "lng": -70.39277152883487
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Carwash",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 113,
+    "name": "ANTOFAGASTA / BOLIVAR - HUAMACHUCO",
+    "address": "Juan Bolivar Esq, Av. Huamachuco 907, Antofagasta",
+    "region": "Antofagasta",
+    "locality": "Antofagasta",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -23.586493241925123,
+      "lng": -70.38072131052895
+    },
+    "services": [
+      "Carwash",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 114,
+    "name": "BUIN",
+    "address": "Camino Buin Maipo 2876",
+    "region": "Metropolitana",
+    "locality": "Buin",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.73150808034398,
+      "lng": -70.77210235766977
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 115,
+    "name": "BUIN / CARRETERA",
+    "address": "Ruta Panamericana Sur Km. 260, Buin, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Buin",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.732825315885286,
+      "lng": -70.7333010743594
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 116,
+    "name": "CALAMA / BALMACEDA",
+    "address": "Av. Balmaceda 4450, Calama, Antofagasta",
+    "region": "Antofagasta",
+    "locality": "Calama",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -22.434611077661607,
+      "lng": -68.91668269008044
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 117,
+    "name": "CALAMA / CHORRILLOS - LATORRE",
+    "address": "Av. Chorrillos, Almte. J. Latorre, Calama, Antofagasta",
+    "region": "Antofagasta",
+    "locality": "Calama",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -22.453030331432142,
+      "lng": -68.92651664590552
+    },
+    "services": [
+      "Tienda aStop",
+      "Carwash",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 118,
+    "name": "CALAMA / GRAU",
+    "address": "Av. Almte. Grau 1064, Calama, Antofagasta",
+    "region": "Antofagasta",
+    "locality": "Calama",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -22.444727345312916,
+      "lng": -68.91161181533951
+    },
+    "services": [
+      "Tienda aStop",
+      "Carwash",
+      "Brazo de carga",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 119,
+    "name": "CALERA DE TANGO / LONQUEN PARADERO 7,5",
+    "address": "Camino Lonquén norte S/N Paradero 7 1/2 Parcela 20",
+    "region": "Metropolitana",
+    "locality": "Calera de Tango",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.593965628931684,
+      "lng": -70.78283976236725
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 120,
+    "name": "CALERA TANGO / PARADERO 9",
+    "address": "Av. Calera de Tango 261, Parc 11A, Los Bajos de San Agustín (Paradero 9)",
+    "region": "Metropolitana",
+    "locality": "Calera de Tango",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.62730743861392,
+      "lng": -70.76918447436351
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 121,
+    "name": "CAPITÁN PASTENE",
+    "address": "Dante 899, Capitan Pastene, Lumaco, Araucanía",
+    "region": "La Araucanía",
+    "locality": "Lumaco",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.1911103170677,
+      "lng": -72.9904699774009
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 122,
+    "name": "CARAHUE",
+    "address": "Pedro de Valdivia 199, Carahue, Araucanía",
+    "region": "La Araucanía",
+    "locality": "Carahue",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.711070625478506,
+      "lng": -73.1670311029892
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 123,
+    "name": "CASTRO / 5 NORTE",
+    "address": "5 Norte 5200, Llau Llao",
+    "region": "Los Lagos",
+    "locality": "Castro",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -42.43419978676734,
+      "lng": -73.76967126049212
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 124,
+    "name": "CHIGUAYANTE",
+    "address": "Av. Manuel Rodríguez N°1562, Chiguayante, Bío Bío",
+    "region": "Biobío",
+    "locality": "Chiguayante",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.93591779398861,
+      "lng": -73.02099921840424
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 125,
+    "name": "CHILLAN / PALERMO",
+    "address": "Palermo 280, Chillán, Ñuble",
+    "region": "Ñuble",
+    "locality": "Chillán",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.61928046090389,
+      "lng": -72.111656903078
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 126,
+    "name": "CHILLAN 1 / ARAUCO",
+    "address": "Arauco 812, 3800861 Chillán, Ñuble",
+    "region": "Ñuble",
+    "locality": "Chillán",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.60997662883083,
+      "lng": -72.1042561319132
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 127,
+    "name": "COLINA ROTONDA",
+    "address": "CALETERA ORIENTE AUTOPISTA LO 22909",
+    "region": "Ñuble",
+    "locality": "Chillán",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.20728120726431,
+      "lng": -70.6666940035621
+    },
+    "services": [
+      "Kerosene",
+      "Carwash",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 128,
+    "name": "COLLIPULLI",
+    "address": "Panamericana Sur km.580",
+    "region": "La Araucanía",
+    "locality": "Collipulli",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -37.95816499789658,
+      "lng": -72.42093090486576
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 129,
+    "name": "COLTAUCO",
+    "address": "Camino A Peumo S/N Con Monseñor Lecaros, Coltauco, O’Higgins",
+    "region": "Libertador General Bernardo O’Higgins",
+    "locality": "Coltauco",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -34.28677345571079,
+      "lng": -71.08452032807558
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 130,
+    "name": "CONCEPCIÓN / CAMILO HENRIQUEZ",
+    "address": "Camilo Henríquez 540, Concepción, Bío Bío",
+    "region": "Biobío",
+    "locality": "Concepción",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.809101023931014,
+      "lng": -73.03360330307012
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 131,
+    "name": "CONCHALÍ / CAMBERRA",
+    "address": "AMERICO VESPUCIO 1880",
+    "region": "Metropolitana",
+    "locality": "Conchalí",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.36744168133782,
+      "lng": -70.68184909399254
+    },
+    "services": [
+      "Tienda aStop",
+      "Cargador eléctrico",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 132,
+    "name": "CONCHALÍ / PANAMERICANA NORTE - STGO.",
+    "address": "Av. Pdte. Eduardo Frei Montalva 2797, Independencia, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Conchalí",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.40311678611854,
+      "lng": -70.68109006609319
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 133,
+    "name": "COPIAPÓ / CIRCUNVALACIÓN",
+    "address": "Los Carrera 3131, Local 1, Copiapó, Atacama",
+    "region": "Atacama",
+    "locality": "Copiapó",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -27.384692678290985,
+      "lng": -70.30692995924917
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 134,
+    "name": "COPIAPÓ / COPAYAPU",
+    "address": "Av. Copayapu (921) 957 Y, Chañarcillo 950, Copiapó, Atacama",
+    "region": "Atacama",
+    "locality": "Copiapó",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -27.37177107410767,
+      "lng": -70.33159715195563
+    },
+    "services": [
+      "Tienda aStop",
+      "Carwash",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 135,
+    "name": "EL BOSQUE / GRAN AVDA - PAR 30,5",
+    "address": "Gran Av. 10078, paradero 30 1/2",
+    "region": "Metropolitana",
+    "locality": "El Bosque",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.55270052226774,
+      "lng": -70.67343044977267
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 136,
+    "name": "ESTACIÓN CENTRAL / LAS REJAS - ALAMEDA",
+    "address": "Avda. B.Ohiggins 5027, Estacion Central, Santiago, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Santiago",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.45650800894519,
+      "lng": -70.70450074553527
+    },
+    "services": [
+      "Kerosene",
+      "Lubricentro",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 137,
+    "name": "HUECHURABA / EL SALTO - VESPUCIO",
+    "address": "Av. Américo Vespucio 071, Huechuraba, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Huechuraba",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.392578007851206,
+      "lng": -70.62661810320743
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 138,
+    "name": "ILLAPEL",
+    "address": "Independencia 0208 esq. Uruguay",
+    "region": "Coquimbo",
+    "locality": "Illapel",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -31.633410348644674,
+      "lng": -71.17107510327409
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 139,
+    "name": "IQUIQUE / BLOCKBUSTER",
+    "address": "Av. Arturo Prat Chacón 1656, Iquique, Tarapacá",
+    "region": "Tarapacá",
+    "locality": "Iquique",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -20.240259687342224,
+      "lng": -70.14510380363556
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 140,
+    "name": "IQUIQUE / KAMIKASE",
+    "address": "Av. Arturo Prat Chacón 3415, Iquique, Tarapacá",
+    "region": "Tarapacá",
+    "locality": "Iquique",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -20.260296600843752,
+      "lng": -70.13252981897452
+    },
+    "services": [
+      "Tienda aStop",
+      "Carwash",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 141,
+    "name": "IQUIQUE / TADEO HAENKE",
+    "address": "Av. Tadeo Haenke 1808, Iquique, Tarapacá",
+    "region": "Tarapacá",
+    "locality": "Iquique",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -20.237860167934432,
+      "lng": -70.14340499479987
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Carwash",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 142,
+    "name": "ISLA DE MAIPO",
+    "address": "Senador Jaime Guzmán 2259",
+    "region": "Metropolitana",
+    "locality": "Isla de Maipo",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.73462119224231,
+      "lng": -70.91381863438833
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 143,
+    "name": "LA FLORIDA / ROJAS MAGALLANES",
+    "address": "ROJAS MAGALLANES 1459  LA FLORIDA",
+    "region": "Metropolitana",
+    "locality": "La Florida",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.53593215825254,
+      "lng": -70.57379016271581
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Cargador eléctrico",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 144,
+    "name": "LA LIGUA",
+    "address": "Portales 1120 Esq, Manuel A. Gaete, La Ligua, Valparaíso",
+    "region": "Valparaíso",
+    "locality": "La Ligua",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -32.451744344451214,
+      "lng": -71.23926156091326
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 145,
+    "name": "LA REINA / JOSÉ ARRIETA - TOBALABA",
+    "address": "Av. José Arrieta 7398, Esq, Av. Tobalaba, La Reina, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "La Reina",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.46235156728739,
+      "lng": -70.55201437436983
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 146,
+    "name": "LAS CONDES / ABADIA",
+    "address": "Av. Las Condes 9595, 7591128 Las Condes, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Las Condes",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.38850290839338,
+      "lng": -70.53934714553786
+    },
+    "services": [
+      "Tienda aStop",
+      "Carwash",
+      "Cargador eléctrico",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 147,
+    "name": "LAS CONDES / ROTONDA ATENAS",
+    "address": "AV.CRISTOBAL COLON 7550 (R. ATENAS)",
+    "region": "Metropolitana",
+    "locality": "Las Condes",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.41736958076004,
+      "lng": -70.55233729155523
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Cargador eléctrico",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 148,
+    "name": "LIMACHE",
+    "address": "Ruta 64 KM 23, Tabolango, Limache, Valparaíso",
+    "region": "Valparaíso",
+    "locality": "Limache",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.01636865519347,
+      "lng": -71.27311312675388
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 149,
+    "name": "Limache / Palmira Romano",
+    "address": "Palmira Romano Ote. 211, Limache, Valparaíso",
+    "region": "Valparaíso",
+    "locality": "Limache",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -32.990896083621976,
+      "lng": -71.2636174743881
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 150,
+    "name": "LO BARNECHEA / PORTAL LA DEHESA",
+    "address": "Av. La Dehesa 1445, Lo Barnechea, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Lo Barnechea",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.34279028,
+      "lng": -70.54563224
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 151,
+    "name": "LO PRADO / NEPTUNO - SAN PABLO",
+    "address": "San Pablo, Neptuno 6256, Lo Prado, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Lo Prado",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.4445705312602,
+      "lng": -70.72381446087508
+    },
+    "services": [
+      "Kerosene",
+      "Cargador eléctrico",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 152,
+    "name": "LOS ANGELES - CENTRO",
+    "address": "O’Higgins 100, Los Ángeles, Bío Bío",
+    "region": "Biobío",
+    "locality": "Los Ángeles",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -37.47298907553491,
+      "lng": -72.35091031653745
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 153,
+    "name": "LOS ÁNGELES / GABRIELA MISTRAL",
+    "address": "Av. Gabriela Mistral 1255, Los Ángeles, Bío Bío",
+    "region": "Biobío",
+    "locality": "Los Ángeles",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -37.474402253310764,
+      "lng": -72.33509877575176
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 154,
+    "name": "MAIPÚ / PAJARITOS - RIESCO",
+    "address": "Av. Los Pajaritos 3439, Maipú, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Maipú",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.49516071371792,
+      "lng": -70.75724144737792
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Cargador eléctrico",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 155,
+    "name": "MELIPILLA",
+    "address": "Av. Vicuña Mackenna 551 - Melipilla",
+    "region": "Metropolitana",
+    "locality": "Melipilla",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.680273258657536,
+      "lng": -71.21440974737075
+    },
+    "services": [
+      "Carwash",
+      "Cargador eléctrico",
+      "Lubricentro",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 156,
+    "name": "NUEVA ALDEA",
+    "address": "Camino A Ñipas Nueva Aldea 280, Nueva Aldea, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Nueva Aldea",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.65400125618177,
+      "lng": -72.45675030307645
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 157,
+    "name": "ÑUÑOA / AV GRECIA - ARZOBISPO ORREGO",
+    "address": "Av. Grecia 1060 esq. Arzobispo Orrego",
+    "region": "Metropolitana",
+    "locality": "Ñuñoa",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.46097536162163,
+      "lng": -70.62027616116264
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 158,
+    "name": "OSORNO / LUIS BARROS",
+    "address": "Manuel Antonio Matta 499 esq. Los Carrera",
+    "region": "Los Lagos",
+    "locality": "Osorno",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -40.57155160481563,
+      "lng": -73.13548219022768
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Brazo de carga",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 159,
+    "name": "OSORNO / REPÚBLICA",
+    "address": "Manuel Antonio Matta 499 esq. Los Carrera",
+    "region": "Los Lagos",
+    "locality": "Osorno",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -40.57155160481563,
+      "lng": -73.13548219022768
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 160,
+    "name": "PADRE LAS CASAS",
+    "address": "Avenida Vilumilla 1511, Padre las Casas, Araucanía",
+    "region": "La Araucanía",
+    "locality": "Padre las Casas",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.77025453382258,
+      "lng": -72.59760434531688
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 161,
+    "name": "PANGUIPULLI / MARTÍNEZ DE ROSAS",
+    "address": "Martínez de Rozas esq. Prat",
+    "region": "Los Ríos",
+    "locality": "Panguipulli",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -39.643360359949085,
+      "lng": -72.32774610583178
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Brazo de carga",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 162,
+    "name": "Papudo",
+    "address": "Domingo Fernández Concha 715, Papudo, Valparaíso",
+    "region": "Valparaíso",
+    "locality": "Papudo",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -32.505600197299735,
+      "lng": -71.44036968974609
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 163,
+    "name": "PEÑAFLOR / BALMACEDA - MIRAFLORES",
+    "address": "esquina - BALMACEDA, Av. Miraflores 21, Penaflor, Talagante, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Peñaflor",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.60312114196886,
+      "lng": -70.8515886050435
+    },
+    "services": [
+      "Tienda aStop",
+      "Lubricentro",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 164,
+    "name": "PEÑAFLOR / MALLOCO",
+    "address": "Av. Balmaceda 1435, Peñaflor, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Peñaflor",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.6134116547638,
+      "lng": -70.8610217762081
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 165,
+    "name": "PEÑAFLOR / MALLOCO BILBAO",
+    "address": "Francisco Bilbao 319-327, Peñaflor, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Peñaflor",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.60157302345394,
+      "lng": -70.87604361853884
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 166,
+    "name": "PEÑALOLÉN / ARRIETA",
+    "address": "Av. José Arrieta 6175, Peñalolén, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Peñalolén",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.46065419926485,
+      "lng": -70.56815913630003
+    },
+    "services": [
+      "Kerosene",
+      "Cargador eléctrico",
+      "Lubricentro",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 167,
+    "name": "PEÑALOLÉN / LOS PRESIDENTES",
+    "address": "Av. Tobalaba 12155, Peñalolén, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Peñalolén",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.486357556928695,
+      "lng": -70.55887773203862
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Carwash",
+      "Cargador eléctrico",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 168,
+    "name": "PEUMO",
+    "address": "Codao 601, Peumo, O’Higgins",
+    "region": "Libertador General Bernardo O’Higgins",
+    "locality": "Peumo",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -34.390784470900144,
+      "lng": -71.16588313200322
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 169,
+    "name": "PROVIDENCIA / ELIODORO YAÑEZ",
+    "address": "AV.ELEODORO YANEZ 921  PROVIDENCIA",
+    "region": "Metropolitana",
+    "locality": "Providencia",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.43367223177879,
+      "lng": -70.62291264553599
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 170,
+    "name": "PTA. ARENAS / AV ESPAÑA",
+    "address": "Av.Espana, Pje. José González &, Punta Arenas, Magallanes y la Antártica Chilena",
+    "region": "Magallanes y la Antártica Chilena",
+    "locality": "Punta Arenas",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -53.13788777356901,
+      "lng": -70.89073329948407
+    },
+    "services": [
+      "Brazo de carga",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 171,
+    "name": "PTA. ARENAS / EDO FREI",
+    "address": "Av. Pdte. Eduardo Frei Montalva 314, Punta Arenas, Magallanes y la Antártica Chilena",
+    "region": "Magallanes y la Antártica Chilena",
+    "locality": "Punta Arenas",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -53.14531709050846,
+      "lng": -70.92677540153468
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 172,
+    "name": "PTA. ARENAS / SALVADOR ALLENDE",
+    "address": "Av. Pdte. Salvador Allende Gossens 093, Punta Arenas, Magallanes y la Antártica Chilena",
+    "region": "Magallanes y la Antártica Chilena",
+    "locality": "Punta Arenas",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -53.16116001108003,
+      "lng": -70.92498228878925
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 173,
+    "name": "PTA.ARENAS / DON BOSCO",
+    "address": "Diag. Don Bosco 464, Punta Arenas, Magallanes y la Antártica Chilena",
+    "region": "Magallanes y la Antártica Chilena",
+    "locality": "Punta Arenas",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -53.15692217290425,
+      "lng": -70.9022750311198
+    },
+    "services": [
+      "Tienda aStop",
+      "Lubricentro",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 174,
+    "name": "PTO. MONTT / BENAVENTE 680",
+    "address": "Benavente 680, Puerto Montt, Los Lagos",
+    "region": "Los Lagos",
+    "locality": "Puerto Montt",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -41.47131388152191,
+      "lng": -72.94492256053638
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Brazo de carga",
+      "Lubricentro",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 175,
+    "name": "PTO. MONTT / CRUCERO",
+    "address": "Crucero 1601",
+    "region": "Los Lagos",
+    "locality": "Puerto Montt",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -41.47569559482811,
+      "lng": -72.96441827587567
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 176,
+    "name": "PUDAHUEL / RUTA 68",
+    "address": "Ruta 68 5, Pudahuel, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Pudahuel",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.44190829988142,
+      "lng": -70.791338520965
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Aire",
+      "Baños"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 177,
+    "name": "PUERTO NATALES 2",
+    "address": "El Ovejero 995, Ultima Esperanza, Natales, Magallanes y la Antártica Chilena",
+    "region": "Magallanes y la Antártica Chilena",
+    "locality": "Natales",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -51.733849525929706,
+      "lng": -72.48940907536998
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 178,
+    "name": "PUERTO VARAS",
+    "address": "Calle San Bernardo 555",
+    "region": "Magallanes y la Antártica Chilena",
+    "locality": "Natales",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -41.3172689005919,
+      "lng": -72.98549946054335
+    },
+    "services": [
+      "Tienda aStop",
+      "Lubricentro",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 179,
+    "name": "QUILLOTA / MAIPÚ",
+    "address": "Maipú 498, Quillota, Valparaíso",
+    "region": "Valparaíso",
+    "locality": "Quillota",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -32.87904011959443,
+      "lng": -71.2492145455574
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 180,
+    "name": "QUILLOTA /ALBERDI",
+    "address": "Juan Bautista Alberdi 1300",
+    "region": "Valparaíso",
+    "locality": "Quillota",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -32.89583213664445,
+      "lng": -71.26033428788702
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 181,
+    "name": "RANCAGUA I",
+    "address": "Av. M.Ramirez, Av. La Compañía 0353, Rancagua, O’Higgins",
+    "region": "Libertador General Bernardo O’Higgins",
+    "locality": "Rancagua",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -34.16653023320108,
+      "lng": -70.71645777618639
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Carwash",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 182,
+    "name": "RANCAGUA II (FREIRE)",
+    "address": "Alameda Bdo. O’Higgins 024, Av. Capitán Ramón Freire 30, Rancagua, O’Higgins",
+    "region": "Libertador General Bernardo O’Higgins",
+    "locality": "Rancagua",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -34.16658972477176,
+      "lng": -70.7340091878377
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 183,
+    "name": "RENCA / DOMINGO SANTA MARÍA",
+    "address": "Av. Domingo Sta. María 3925, Renca, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Renca",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.40640354176743,
+      "lng": -70.70018688971155
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 184,
+    "name": "RENGO CIUDAD",
+    "address": "Caupolicán 67, Rengo, O’Higgins",
+    "region": "Libertador General Bernardo O’Higgins",
+    "locality": "Rengo",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.40313929030418,
+      "lng": -70.70148136087676
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Brazo de carga",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 185,
+    "name": "SAN BERNARDO / AV PADRE HURTADO",
+    "address": "Av. Padre Hurtado 15787",
+    "region": "Metropolitana",
+    "locality": "San Bernardo",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.604038038480766,
+      "lng": -70.68315332092517
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 186,
+    "name": "SAN JOAQUIN / SANTA ROSA - CICARELLI",
+    "address": "Santa Rosa 2414 Esq, Pintor Cicarelli, San Joaquín, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "San Joaquín",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.47682933224811,
+      "lng": -70.6416300032042
+    },
+    "services": [
+      "Cargador eléctrico",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 187,
+    "name": "SAN JOSÉ / CAJON DEL MAIPO",
+    "address": "Camino Al Volcan, Av. el Manzano 10.751, El Manzano, San José de Maipo, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "San José de Maipo",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.5860917339221,
+      "lng": -70.39710524553018
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 188,
+    "name": "TALCA / 11 ORIENTE",
+    "address": "Once Ote. 501, Talca, Maule",
+    "region": "Maule",
+    "locality": "Talca",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -35.43497782019658,
+      "lng": -71.65140732230797
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 189,
+    "name": "TALCA / DOS SUR - SIETE ORIENTE",
+    "address": "Av. 2 Sur Esquina, Siete Ote 1410, Talca, Maule",
+    "region": "Maule",
+    "locality": "Talca",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -35.42920410048985,
+      "lng": -71.65681249163046
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 190,
+    "name": "TALCA I / 17 ORIENTE - UNO NORTE",
+    "address": "17 Oriente con 1 Norte #2255",
+    "region": "Maule",
+    "locality": "Talca",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -35.42725310615631,
+      "lng": -71.64351837613609
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Carwash",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 191,
+    "name": "TALCA II / CARLOS SHORR",
+    "address": "Av. Carlos Schorr 355",
+    "region": "Maule",
+    "locality": "Talca",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -35.428279552315345,
+      "lng": -71.67149764930043
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Carwash",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 192,
+    "name": "TEMUCO / BARROS ARANA",
+    "address": "Av. Barros Arana 52, Temuco, Araucanía",
+    "region": "La Araucanía",
+    "locality": "Temuco",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.73532085103883,
+      "lng": -72.57851410298815
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 193,
+    "name": "TEMUCO / CAUPOLICÁN",
+    "address": "Caupolicán 1041, Temuco, Araucanía",
+    "region": "La Araucanía",
+    "locality": "Temuco",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.731007451846786,
+      "lng": -72.58535103182325
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 194,
+    "name": "TEMUCO / GRAL MACKENA",
+    "address": "G.Mackenna 699 Esq, Antonio Varas, Temuco, Araucanía",
+    "region": "La Araucanía",
+    "locality": "Temuco",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.74079015184054,
+      "lng": -72.58669481832735
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 195,
+    "name": "TEMUCO / RUDECINDO ORTEGA",
+    "address": "Rudecindo Ortega 1139, Temuco, Araucanía",
+    "region": "La Araucanía",
+    "locality": "Temuco",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.72247361271513,
+      "lng": -72.57085431648404
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 196,
+    "name": "TOME",
+    "address": "Ignacio Serrano 855, Tomé, Bío Bío",
+    "region": "Biobío",
+    "locality": "Tomé",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.62013879013829,
+      "lng": -72.95766301545002
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 197,
+    "name": "VALDIVIA - ACEVEDO",
+    "address": "Pedro Montt 1527",
+    "region": "Los Ríos",
+    "locality": "Valdivia",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -39.82370195848703,
+      "lng": -73.23570171927622
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 198,
+    "name": "VALLENAR",
+    "address": "Panamericana Norte, Cruce Huasco S/N, Vallenar, Atacama",
+    "region": "Atacama",
+    "locality": "Vallenar",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -28.574466812322257,
+      "lng": -70.78556633066731
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 199,
+    "name": "VALPARAÍSO / LEVARTE",
+    "address": "Levarte 1050, Playa Ancha, Valparaíso",
+    "region": "Valparaíso",
+    "locality": "Playa Ancha",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.03799454463265,
+      "lng": -71.64455930322114
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 200,
+    "name": "VILLARRICA / ÑANCUL",
+    "address": "Camino Villarrica a Loncoche KM 8",
+    "region": "La Araucanía",
+    "locality": "Villarrica",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -39.2788919709439,
+      "lng": -72.3087349595149
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 201,
+    "name": "VILLARRICA I / AVIADOR ACEVEDO",
+    "address": "Aviador Acevedo 890, Villarrica I",
+    "region": "La Araucanía",
+    "locality": "Villarrica",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -39.28770334837821,
+      "lng": -72.22595936175743
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Brazo de carga",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 202,
+    "name": "PTO. MONTT / SERENA",
+    "address": "Serena 90 Esq, Antonio Varas, Puerto Montt, Los Lagos",
+    "region": "Los Lagos",
+    "locality": "Puerto Montt",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -41.47177005451962,
+      "lng": -72.93550977390797
+    },
+    "services": [
+      "Tienda aStop",
+      "Lubricentro",
+      "Kerosene",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 203,
+    "name": "PTO. MONTT / CARDONAL",
+    "address": "Av. Cardonal 23, Puerto Montt, Los Lagos",
+    "region": "Los Lagos",
+    "locality": "Puerto Montt",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -41.46901955719513,
+      "lng": -72.96992097390799
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 204,
+    "name": "PTO MONTT / EL TEPUAL",
+    "address": "Ruta 226 esquina, Apiasmontt, Puerto Montt, Los Lagos",
+    "region": "Los Lagos",
+    "locality": "Puerto Montt",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -41.45185996782478,
+      "lng": -73.01175507509829
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 205,
+    "name": "DALCAHUE",
+    "address": "Ramón Freire Poniente 1010, Dalcahue, Los Lagos",
+    "region": "Los Lagos",
+    "locality": "Dalcahue",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -42.381214505292554,
+      "lng": -73.6598103853763
+    },
+    "services": [
+      "Brazo de carga",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 206,
+    "name": "SANTIAGO / AV. MATTA - R. ESPINOZA",
+    "address": "Av. Manuel Antonio Matta 1345, Santiago, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Santiago",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.45970666868459,
+      "lng": -70.65250238956428
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 207,
+    "name": "PALMILLA",
+    "address": "Ruta 90 40600, Palmilla, O’Higgins",
+    "region": "Libertador General Bernardo O’Higgins",
+    "locality": "Palmilla",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -34.59846099552032,
+      "lng": -71.36322537417894
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Baños"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 208,
+    "name": "TALCAHUANO / B. ENCALADA",
+    "address": "Blanco Encalada 702, Talcahuano, Bío Bío",
+    "region": "Biobío",
+    "locality": "Talcahuano",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.71558056893197,
+      "lng": -73.10974230293607
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 209,
+    "name": "CHAÑARAL",
+    "address": "Panamericana Norte S/N, Chañaral, Atacama",
+    "region": "Atacama",
+    "locality": "Chañaral",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -26.337104988809084,
+      "lng": -70.60807941862741
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 210,
+    "name": "SAN VICENTE TT / RIESCO",
+    "address": "Av. Germán Riesco 1890 Km. 17 Camino La Fruta, San Vicente de Tagua Tagua, O’Higgins",
+    "region": "Libertador General Bernardo O’Higgins",
+    "locality": "San Vicente",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -34.43546456376579,
+      "lng": -71.0887687
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 211,
+    "name": "CHIMBARONGO",
+    "address": "Pisagua, Esquina, Máximo Valdés, Chimbarongo, O’Higgins",
+    "region": "Libertador General Bernardo O’Higgins",
+    "locality": "Chimbarongo",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -34.71035133715407,
+      "lng": -71.04004393027367
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 212,
+    "name": "VALPARAÍSO / PLAYA ANCHA",
+    "address": "Av. Playa Ancha 780, Valparaíso",
+    "region": "Valparaíso",
+    "locality": "Playa Ancha",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.02603821879772,
+      "lng": -71.63974292883607
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 213,
+    "name": "RECOLETA / BELLAVISTA 135",
+    "address": "Bellavista 135, Recoleta, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Recoleta",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.43407753228554,
+      "lng": -70.63930827422075
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 214,
+    "name": "LAUTARO II",
+    "address": "Avenida O’higgins & 21 de Mayo, Lautaro, Araucanía",
+    "region": "La Araucanía",
+    "locality": "Lautaro",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.541069600753836,
+      "lng": -72.43841915164441
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 215,
+    "name": "CORONEL / MANUEL MONTT",
+    "address": "Av. Manuel Montt 2320, Coronel, Bío Bío",
+    "region": "Biobío",
+    "locality": "Coronel",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.99320468409297,
+      "lng": -73.16274470482304
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 216,
+    "name": "MAIPÚ / CAM. A MELIPILLA",
+    "address": "Cmo. a Melipilla 11065, Maipú, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Maipú",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.52136630723715,
+      "lng": -70.74640479379141
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 217,
+    "name": "LO VALLEDOR",
+    "address": "Av. Central 3259 Esq. Gral Velásquez - Lo Valledor, Cerrillos, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Cerrillos",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.482229776699036,
+      "lng": -70.68716141484047
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 218,
+    "name": "CERRILLOS / CARREFOUR",
+    "address": "Av. Américo Vespucio 2901, Cerrillos, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Cerrillos",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.51937398767391,
+      "lng": -70.70718347116394
+    },
+    "services": [],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 219,
+    "name": "PURRANQUE",
+    "address": "Pedro Montt 570, Purranque, Los Lagos",
+    "region": "Los Lagos",
+    "locality": "Purranque",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -40.9116198035203,
+      "lng": -73.15333727948898
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 220,
+    "name": "PUERTO NATALES",
+    "address": "Av. Pedro Montt 161, Puerto Natales, Magallanes y la Antártica Chilena",
+    "region": "Magallanes y la Antártica Chilena",
+    "locality": "Natales",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -51.72508211717273,
+      "lng": -72.51140151410722
+    },
+    "services": [
+      "Brazo de carga",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 221,
+    "name": "OSORNO CARRETERA",
+    "address": "Ruta 5 Sur, Km. 915, Osorno, Los Lagos",
+    "region": "Los Lagos",
+    "locality": "Osorno",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -40.55174725565484,
+      "lng": -73.09518941812696
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 222,
+    "name": "FUTRONO",
+    "address": "Balmaceda 1005, Futrono, Los Ríos",
+    "region": "Los Ríos",
+    "locality": "Futrono",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -40.130266622583214,
+      "lng": -72.38035861814446
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 223,
+    "name": "COYHAIQUE / PETROGAS SUR",
+    "address": "Almirante Simpson 725 esq, Ogana, Coyhaique, Aysén",
+    "region": "Aysén",
+    "locality": "Coyhaique",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -45.57794233824366,
+      "lng": -72.06699127116394
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 224,
+    "name": "COYHAIQUE",
+    "address": "Gral. Parra, Coyhaique, Aysén",
+    "region": "Aysén",
+    "locality": "Coyhaique",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -45.56933898939831,
+      "lng": -72.06902804524466
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 225,
+    "name": "Peñalolén Las Perdices",
+    "address": "Esq. Av.C. Las Perdices - PD1638, Av. Los Presidentes, Peñalolén, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Peñalolén",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.491409144215254,
+      "lng": -70.54115195522115
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 226,
+    "name": "VILLARRICA /SATURNINO EPULEF",
+    "address": "Saturnino Epulef 1519, Villarrica, Araucanía",
+    "region": "La Araucanía",
+    "locality": "Villarrica",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -39.29169508306487,
+      "lng": -72.22117877116393
+    },
+    "services": [
+      "Tienda aStop",
+      "Lubricentro",
+      "Aire",
+      "Baños"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 227,
+    "name": "CURICO / MANSO DE VELAZCO-ARGOMEDO",
+    "address": "Manso de Velasco, esq. Argomedo 423, Curicó, Maule",
+    "region": "Maule",
+    "locality": "Curicó",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -34.986555378953256,
+      "lng": -71.23443038654464
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 228,
+    "name": "TALAGANTE / AV BDO. O’HIGGINS",
+    "address": "Av. Bernardo O’Higgins 292, Talagante, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Talagante",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.59238546152577,
+      "lng": -70.70109379863177
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 229,
+    "name": "QUILLON",
+    "address": "O’Higgins 622, Quillón, Ñuble",
+    "region": "Ñuble",
+    "locality": "Chillán",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.74268422664606,
+      "lng": -72.47064832698359
+    },
+    "services": [
+      "Kerosene",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 230,
+    "name": "CHILLAN CARRETERA",
+    "address": "Ruta 5 S/N, Chillán, Ñuble",
+    "region": "Ñuble",
+    "locality": "Chillán",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.570748,
+      "lng": -72.09783083067536
+    },
+    "services": [
+      "Brazo de carga",
+      "Aire",
+      "Baños"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 231,
+    "name": "VILLARRICA II / COLO COLO",
+    "address": "Colo-Colo 1814, Villarrica, Araucanía",
+    "region": "La Araucanía",
+    "locality": "Villarrica",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -39.30047228124294,
+      "lng": -72.23261661534428
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 232,
+    "name": "VALPARAÍSO / ERRÁZURIZ",
+    "address": "Errázuriz 1306, Valparaíso",
+    "region": "Valparaíso",
+    "locality": "Valparaíso",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.042892302098366,
+      "lng": -71.62202454725087
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 233,
+    "name": "VALPARAÍSO / CHACABUCO-RODRÍGUEZ",
+    "address": "Chacabuco 2005 Esq. Rodríguez, Valparaíso",
+    "region": "Valparaíso",
+    "locality": "Valparaíso",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.045864647545024,
+      "lng": -71.61585608957866
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 234,
+    "name": "RECOLETA / ARZOBISPO VALDIVIESO - PERÚ",
+    "address": "Av. Valdivieso 384, Recoleta, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Recoleta",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.41389315180876,
+      "lng": -70.63888470305764
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 235,
+    "name": "LAUTARO I",
+    "address": "José Miguel Carrera 332, Lautaro, Araucanía",
+    "region": "La Araucanía",
+    "locality": "Lautaro",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.53387638405291,
+      "lng": -72.4376813586846
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 236,
+    "name": "CORONEL / PUNTO ROJO",
+    "address": "Carlos Pratt González 1405, Coronel, Bío Bío",
+    "region": "Biobío",
+    "locality": "Coronel",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -37.00633850133701,
+      "lng": -73.16046650292488
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 237,
+    "name": "SAN RAMON / STA ROSA - BOLIVIA",
+    "address": "Santa Rosa 8751 / Bolivia, San Ramón, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "San Ramón",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.54033845059745,
+      "lng": -70.6345793687172
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 238,
+    "name": "LA GRANJA / STA ROSA 10302 -BALDIVIESO",
+    "address": "Av. Sta. Rosa 10302, La Granja, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "La Granja",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.55494666398328,
+      "lng": -70.63133964538035
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 239,
+    "name": "QUELLON",
+    "address": "Capitan Luis Alcazar 550, Quellón, Los Lagos",
+    "region": "Los Lagos",
+    "locality": "Quellón",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -43.11847623398847,
+      "lng": -73.6266764738369
+    },
+    "services": [
+      "Kerosene",
+      "Brazo de carga",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 240,
+    "name": "CASTRO",
+    "address": "O’Higgins 601, Castro, Los Lagos",
+    "region": "Los Lagos",
+    "locality": "Castro",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -42.479164907380586,
+      "lng": -73.76505758920916
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 241,
+    "name": "VALPARAISO / PLACILLA",
+    "address": "Ruta 68 1150, Casilla 99 C, Valparaíso",
+    "region": "Valparaíso",
+    "locality": "Placilla",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.11787875803219,
+      "lng": -71.56143908957621
+    },
+    "services": [
+      "Tienda aStop",
+      "Subway",
+      "Brazo de carga",
+      "Cargador eléctrico",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 242,
+    "name": "MAIPÚ / CIUDAD SATÉLITE",
+    "address": "Av. Parque Central Pte. 21, Maipú, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Maipú",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.554689240845434,
+      "lng": -70.79550886072471
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Cargador eléctrico",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 243,
+    "name": "TEMUCO 1 / CAUPOLICÁN - O’HIGGINS",
+    "address": "Caupolican 096 Esquina O’higgins, Temuco, Araucanía",
+    "region": "La Araucanía",
+    "locality": "Temuco",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.741422708576586,
+      "lng": -72.60319394015188
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Brazo de carga",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 244,
+    "name": "QUILICURA",
+    "address": "Av Manuel Antonio Matta 437, Quilicura, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Quilicura",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.365200968158554,
+      "lng": -70.7305230472395
+    },
+    "services": [
+      "Tienda aStop",
+      "Carwash",
+      "Kerosene",
+      "Cargador eléctrico",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 245,
+    "name": "LOS ANDES / AV ARGENTINA",
+    "address": "Av. Argentina 290 Esq. Maipú, Valparaíso, Los Andes, Valparaíso",
+    "region": "Valparaíso",
+    "locality": "Los Andes",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -32.8304462924357,
+      "lng": -70.59562041141112
+    },
+    "services": [
+      "Tienda aStop",
+      "Kerosene",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 246,
+    "name": "POZO ALMONTE",
+    "address": "Calle Comercio 53, Pozo Almonte, Tarapacá",
+    "region": "Tarapacá",
+    "locality": "Pozo Almonte",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -20.26246667073251,
+      "lng": -69.78539926533861
+    },
+    "services": [
+      "Tienda aStop",
+      "Carwash",
+      "Brazo de carga",
+      "Aire",
+      "Baños",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 247,
+    "name": "ARICA / PORTALES",
+    "address": "Av. Diego Portales 2462, Arica, Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "locality": "Arica",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -18.4874705739435,
+      "lng": -70.2885984
+    },
+    "services": [
+      "Tienda aStop",
+      "Carwash",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 248,
+    "name": "ARICA / GRAL VELÁSQUEZ",
+    "address": "Gral. Velásquez 922, Arica, Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "locality": "Arica",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -18.47510257200691,
+      "lng": -70.31520417463886
+    },
+    "services": [
+      "Tienda aStop",
+      "Aire",
+      "Cajero"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 249,
+    "name": "SAN FERNANDO CIUDAD",
+    "address": "Av. Bdo. O’Higgins 790, San Fernando, O’Higgins",
+    "region": "Libertador General Bernardo O’Higgins",
+    "locality": "San Fernando",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -34.595219622716755,
+      "lng": -70.98367743763451
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 251,
+    "name": "ARICA / AV. CAPITÁN ÁVALOS",
+    "address": "Av. Capitán Ávalos 2496, Arica, Arica y Parinacota",
+    "region": "Arica y Parinacota",
+    "locality": "Arica",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -18.486864123323016,
+      "lng": -70.28469687116393
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 252,
+    "name": "PEÑAFLOR / MALLOCO VICUÑA MACKENNA",
+    "address": "Av. Vicuña Mackenna 1545, Peñaflor, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Peñaflor",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.61030011326921,
+      "lng": -70.8749414070591
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 253,
+    "name": "PARRAL CIUDAD",
+    "address": "Dieciocho 559, Parral, Maule",
+    "region": "Maule",
+    "locality": "Parral",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.14131943753504,
+      "lng": -71.82496057412182
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 254,
+    "name": "COIHUECO",
+    "address": "Av. Arturo Prat 331 Coihueco Ñuble Bíobío",
+    "region": "Ñuble",
+    "locality": "Coihueco",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.62392342564699,
+      "lng": -71.8508863
+    },
+    "services": [
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 255,
+    "name": "VICTORIA",
+    "address": "Bernardo Muñoz Vargas, Región IX, Chile 450, Victoria, Araucanía",
+    "region": "La Araucanía",
+    "locality": "Victoria",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.23726645580442,
+      "lng": -72.33443391636851
+    },
+    "services": [
+      "Lubricentro",
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 256,
+    "name": "TRAIGUEN",
+    "address": "Santa Cruz, Esq. Balmaceda 510, Traiguen, Araucanía",
+    "region": "La Araucanía",
+    "locality": "Traiguen",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -38.246481209104374,
+      "lng": -72.66832925031247
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 257,
+    "name": "LOS ANDES / STA TERESITA",
+    "address": "Esq. Los Villar - Sta. Teresa 285, Los Andes, Valparaíso",
+    "region": "Valparaíso",
+    "locality": "Los Andes",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -32.83165748602451,
+      "lng": -70.60272562998112
+    },
+    "services": [
+      "Kerosene",
+      "Cargador eléctrico",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 258,
+    "name": "ÑUÑOA / RICARDO LYON",
+    "address": "Av. Ricardo Lyon 2633, Ñuñoa, Región Metropolitana",
+    "region": "Metropolitana",
+    "locality": "Ñuñoa",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -33.44523696427942,
+      "lng": -70.60308621654828
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 259,
+    "name": "QUELLON II",
+    "address": "Ruta 5 Sur, Km. 1 N°780, Quellón, Los Lagos",
+    "region": "Los Lagos",
+    "locality": "Quellón",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -43.109072614976576,
+      "lng": -73.60625321073405
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  },
+  {
+    "id": 260,
+    "name": "CHILLAN / O’HIGGINS",
+    "address": "Av. O’Higgins 799, 3800771 Chillán, Ñuble",
+    "region": "Ñuble",
+    "locality": "Chillán",
+    "contact": "800 374 834",
+    "schedule": "Abierto las 24 horas",
+    "coords": {
+      "lat": -36.608372,
+      "lng": -72.109518
+    },
+    "services": [
+      "Kerosene",
+      "Aire"
+    ],
+    "tag": "ESTACIÓN DE SERVICIO"
+  }
+]
